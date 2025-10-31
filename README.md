@@ -1,2 +1,2 @@
-# fluentd
-Test Fluentd with python api
+# EFK
+Elasticsearch, Fluentd and Kibana
